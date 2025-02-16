@@ -1,4 +1,5 @@
 code,url,first_name,last_name,slug,birth_date,birthplace,turned_pro,weight,height,residence,handedness,backhand,citizenship,code_dc,url_dc
+0,https://www.atptour.com/en/players/undefined-bye/0/overview,Undefined,Bye,undefined-bye,,,,,,,,,,,
 a006,https://www.atptour.com/en/players/ronald-agenor/a006/overview,Ronald,Agenor,ronald-agenor,19641113,"Rabat, Morocco",1983,82,180,"Beverly Hills, California, USA",Right-Handed,Unknown Backhand,HAI,800177724,https://media.itfdataservices.com/player/dc/en/800177724
 a041,https://www.atptour.com/en/players/marcos-vinicius-azevedo-silva/a041/overview,Marcos Vinicius,Azevedo Silva,marcos-vinicius-azevedo-silva,19950320,,,,,,Right-Handed,Unknown Backhand,BRA,,
 a092,https://www.atptour.com/en/players/andre-agassi/a092/overview,Andre,Agassi,andre-agassi,19700429,"Las Vegas, Nevada, USA",1986,80,180,"Las Vegas, Nevada, USA",Right-Handed,Two-Handed Backhand,USA,800178995,https://media.itfdataservices.com/player/dc/en/800178995
@@ -114,6 +115,8 @@ a0lx,https://www.atptour.com/en/players/joaquim-almeida/a0lx/overview,Joaquim,Al
 a0ml,https://www.atptour.com/en/players/emmanuel-alex/a0ml/overview,Emmanuel,Alex,emmanuel-alex,20060221,,,,,,,,,,
 a0mr,https://www.atptour.com/en/players/lucca-acioly/a0mr/overview,Lucca,Acioly,lucca-acioly,20061226,,,,,,,,,,
 a0mu,https://www.atptour.com/en/players/gai-ando/a0mu/overview,Gai,Ando,gai-ando,20051214,,,,,,,,,,
+a0na,https://www.atptour.com/en/players/david-aguiar johansson/a0na/overview,David,Aguiar Johansson,david-aguiar johansson,20080414,,,,,,,,,,
+a0nb,https://www.atptour.com/en/players/elyas-abduljalil/a0nb/overview,Elyas,Abduljalil,elyas-abduljalil,19990907,,,,,,,,,,
 a141,https://www.atptour.com/en/players/jose-francisco-altur/a141/overview,Jose Francisco,Altur,jose-francisco-altur,19680324,"Valencia, Spain",1985,81,191,"Valencia, Spain",Left-Handed,Unknown Backhand,ESP,,
 a172,https://www.atptour.com/en/players/alejandro-aramburu/a172/overview,Alejandro,Aramburu,alejandro-aramburu,19690214,"Lima, Peru",0,64,175,,Right-Handed,Unknown Backhand,PER,800179138,https://media.itfdataservices.com/player/dc/en/800179138
 a176,https://www.atptour.com/en/players/jan-apell/a176/overview,Jan,Apell,jan-apell,19691104,"Goteborg, Sweden",1988,73,183,"Kungsbacka,Sweden",Left-Handed,Unknown Backhand,SWE,,
@@ -733,6 +736,7 @@ b0n8,https://www.atptour.com/en/players/rafael-botran neutze/b0n8/overview,Rafae
 b0n9,https://www.atptour.com/en/players/breno-braga/b0n9/overview,Breno,Braga,breno-braga,20050104,,,,,,,,BRA,,
 b0na,https://www.atptour.com/en/players/victor-braga/b0na/overview,Victor,Braga,victor-braga,20050104,,,,,,,,,,
 b0nd,https://www.atptour.com/en/players/daniel-baquero/b0nd/overview,Daniel,Baquero,daniel-baquero,20050114,,,,,,,,DOM,,
+b0ne,,,,,,,,,,,,,,,
 b0nf,https://www.atptour.com/en/players/valentin-basel/b0nf/overview,Valentin,Basel,valentin-basel,20040602,,,,,,,,ARG,,
 b0ng,https://www.atptour.com/en/players/murilo-burckhardt/b0ng/overview,Murilo,Burckhardt,murilo-burckhardt,20040402,,,,,,,,BRA,,
 b0nn,https://www.atptour.com/en/players/nishesh-basavareddy/b0nn/overview,Nishesh,Basavareddy,nishesh-basavareddy,20050502,,,70,180,,Right-Handed,Two-Handed Backhand,USA,,
@@ -801,6 +805,7 @@ b0w4,https://www.atptour.com/en/players/manvydas-balciunas/b0w4/overview,Manvyda
 b0w7,https://www.atptour.com/en/players/thanaphat-boosarawongse/b0w7/overview,Thanaphat,Boosarawongse,thanaphat-boosarawongse,20060220,,,,,,,,,,
 b0wd,https://www.atptour.com/en/players/lorenzo-berto/b0wd/overview,Lorenzo,Berto,lorenzo-berto,20070603,,,,,,,,,,
 b0we,https://www.atptour.com/en/players/henry-bilicic/b0we/overview,Henry,Bilicic,henry-bilicic,20010319,,,,,,,,,,
+b0x2,https://www.atptour.com/en/players/dillon-beckles/b0x2/overview,Dillon,Beckles,dillon-beckles,20060718,,,,,,,,,,
 b0xc,https://www.atptour.com/en/players/pietro-bertasi/b0xc/overview,Pietro,Bertasi,pietro-bertasi,20091023,,,,,,,,,,
 b100,https://www.atptour.com/en/players/eric-brawerman/b100/overview,Eric,Brawerman,eric-brawerman,,,,,,,Right-Handed,Unknown Backhand,BEL,,
 b105,https://www.atptour.com/en/players/nick-badenhorst/b105/overview,Nick,Badenhorst,nick-badenhorst,,,,,,,Right-Handed,Unknown Backhand,RSA,,
@@ -3780,7 +3785,9 @@ g0o8,https://www.atptour.com/en/players/hugo-garcia gomez/g0o8/overview,Hugo,Gar
 g0of,https://www.atptour.com/en/players/georgi-georgiev/g0of/overview,Georgi,Georgiev,georgi-georgiev,20060927,,,,,,,,,,
 g0oq,https://www.atptour.com/en/players/gus-grumet/g0oq/overview,Gus,Grumet,gus-grumet,20071130,,,,,,,,,,
 g0oy,https://www.atptour.com/en/players/cristian ariel-gonzalez silva/g0oy/overview,Cristian,Ariel Gonzalez Silva,cristian ariel-gonzalez silva,20040226,,,,,,,,,,
+g0p6,https://www.atptour.com/en/players/samuel-garcia hernandez/g0p6/overview,Samuel,Garcia Hernandez,samuel-garcia hernandez,,,,,,,,,,,
 g0p7,https://www.atptour.com/en/players/samuel-garcia hernandez/g0p7/overview,Samuel,Garcia Hernandez,samuel-garcia hernandez,20060622,,,,,,,,,,
+g0pa,https://www.atptour.com/en/players/miguel-garcia gonzalez/g0pa/overview,Miguel,Garcia Gonzalez,miguel-garcia gonzalez,19960906,,,,,,,,,,
 g108,https://www.atptour.com/en/players/rodolphe-gilbert/g108/overview,Rodolphe,Gilbert,rodolphe-gilbert,19681212,"Brou-sur-Chanteneine, France",1988,73,183,"Paris, France",Left-Handed,Unknown Backhand,FRA,,
 g166,https://www.atptour.com/en/players/jhonson-garcia/g166/overview,Jhonson,Garcia,jhonson-garcia,19801001,,,,,,Right-Handed,Unknown Backhand,DOM,800188690,https://media.itfdataservices.com/player/dc/en/800188690
 g182,https://www.atptour.com/en/players/magnus-gustafsson/g182/overview,Magnus,Gustafsson,magnus-gustafsson,19670103,"Lund, Sweden",1986,78,185,"Gothenburg, Sweden",Right-Handed,Unknown Backhand,SWE,800179256,https://media.itfdataservices.com/player/dc/en/800179256
@@ -4396,6 +4403,7 @@ h0co,https://www.atptour.com/en/players/patrick-harper/h0co/overview,Patrick,Har
 h0ct,https://www.atptour.com/en/players/yasunori-hashikawa/h0ct/overview,Yasunori,Hashikawa,yasunori-hashikawa,19981217,,,,,,,,JPN,,
 h0cu,https://www.atptour.com/en/players/ronald-hohmann/h0cu/overview,Ronald,Hohmann,ronald-hohmann,20010801,,,73,178,,Right-Handed,Two-Handed Backhand,USA,,
 h0cx,https://www.atptour.com/en/players/max-houkes/h0cx/overview,Max,Houkes,max-houkes,20000703,,,78,185,,Left-Handed,Two-Handed Backhand,NED,,
+h0d1,https://www.atptour.com/en/players/adam-heinonen/h0d1/overview,Adam,Heinonen,adam-heinonen,20020822,,,72,188,,,,,,
 h0d9,https://www.atptour.com/en/players/cleeve-harper/h0d9/overview,Cleeve,Harper,cleeve-harper,20001224,,,78,178,,Right-Handed,Two-Handed Backhand,CAN,,
 h0dc,https://www.atptour.com/en/players/giles-hussey/h0dc/overview,Giles,Hussey,giles-hussey,19970526,,,75,185,,Left-Handed,Two-Handed Backhand,GBR,,
 h0di,https://www.atptour.com/en/players/vitek-horak/h0di/overview,Vitek,Horak,vitek-horak,20020706,,,,,,,,CZE,,
@@ -6655,6 +6663,7 @@ m0if,https://www.atptour.com/en/players/francesco-maestrelli/m0if/overview,Franc
 m0ig,https://www.atptour.com/en/players/ezequiel-monferrer/m0ig/overview,Ezequiel,Monferrer,ezequiel-monferrer,20030516,,,72,170,,Right-Handed,Unknown Backhand,ARG,,
 m0ij,https://www.atptour.com/en/players/dhruva-mulye/m0ij/overview,Dhruva,Mulye,dhruva-mulye,20010206,,,73,183,,Right-Handed,One-Handed Backhand,USA,,
 m0iy,https://www.atptour.com/en/players/james-mackinlay/m0iy/overview,James,Mackinlay,james-mackinlay,20000811,,,77,188,,,,,,
+m0j2,https://www.atptour.com/en/players/pablo-masjuan ginel/m0j2/overview,Pablo,Masjuan Ginel,pablo-masjuan ginel,20020729,,,,,,,,,,
 m0jf,https://www.atptour.com/en/players/hamad-medjedovic/m0jf/overview,Hamad,Medjedovic,hamad-medjedovic,20030718,,,83,185,,Right-Handed,Two-Handed Backhand,SRB,800442351,https://media.itfdataservices.com/player/dc/en/800442351
 m0jn,https://www.atptour.com/en/players/carlos-matarredona-valor/m0jn/overview,Carlos,Matarredona Valor,carlos-matarredona-valor,20000718,,,,,,,,ESP,,
 m0jy,https://www.atptour.com/en/players/timur-mukhtarulin/m0jy/overview,Timur,Mukhtarulin,timur-mukhtarulin,20020810,,,,,,Right-Handed,,UKR,,
@@ -7009,6 +7018,7 @@ me22,https://www.atptour.com/en/players/lubomir-majsajdr/me22/overview,Lubomir,M
 me24,https://www.atptour.com/en/players/michal-mateasko/me24/overview,Michal,Mateasko,michal-mateasko,19880418,,,,,,Left-Handed,,CZE,,
 me29,https://www.atptour.com/en/players/steven-moneke/me29/overview,Steven,Moneke,steven-moneke,19860527,,,,,Germany,Right-Handed,,GER,,
 me31,https://www.atptour.com/en/players/vincent-millot/me31/overview,Vincent,Millot,vincent-millot,19860130,"Montpellier, France",2007,75,173,"Dijon, France",Left-Handed,Two-Handed Backhand,FRA,,
+me32,,,,,,,,,,,,,,,
 me45,https://www.atptour.com/en/players/borja-malo/me45/overview,Borja,Malo,borja-malo,19871215,,,,,Chile,Left-Handed,,CHI,,
 me46,https://www.atptour.com/en/players/martin-montalbetti/me46/overview,Martin,Montalbetti,martin-montalbetti,19860530,,,,,,Left-Handed,,ARG,,
 me48,https://www.atptour.com/en/players/amir-soheil-mohseni/me48/overview,Amir-Soheil,Mohseni,amir-soheil-mohseni,19800518,,,,,,,,IRI,,
@@ -9556,6 +9566,7 @@ s0jb,https://www.atptour.com/en/players/noah-schachter/s0jb/overview,Noah,Schach
 s0jc,https://www.atptour.com/en/players/luis-siegler/s0jc/overview,Luis,Siegler,luis-siegler,19991227,,,,,,,,USA,,
 s0jd,https://www.atptour.com/en/players/tim-seibert/s0jd/overview,Tim,Seibert,tim-seibert,19990830,,,,,,Right-Handed,,GER,,
 s0jh,https://www.atptour.com/en/players/filippo-speziali/s0jh/overview,Filippo,Speziali,filippo-speziali,20000424,,,,,,Right-Handed,Unknown Backhand,ITA,,
+s0jk,,,,,,,,,,,,,,,
 s0jv,https://www.atptour.com/en/players/qian-sun/s0jv/overview,Qian,Sun,qian-sun,20010712,,,78,188,,Right-Handed,Two-Handed Backhand,CHN,,
 s0jw,https://www.atptour.com/en/players/sungbeen-sim/s0jw/overview,Sungbeen,Sim,sungbeen-sim,19970410,,,,,,,,,,
 s0jx,https://www.atptour.com/en/players/imran-sibille/s0jx/overview,Imran,Sibille,imran-sibille,20020204,,,72,183,,Right-Handed,Two-Handed Backhand,MAR,,
@@ -12020,6 +12031,7 @@ z0b6,https://www.atptour.com/en/players/xinmu-zhou/z0b6/overview,Xinmu,Zhou,xinm
 z0b7,https://www.atptour.com/en/players/richard-zusman/z0b7/overview,Richard,Zusman,richard-zusman,20000822,,,65,173,,Left-Handed,Two-Handed Backhand,USA,,
 z0bb,https://www.atptour.com/en/players/andrew-zhang/z0bb/overview,Andrew,Zhang,andrew-zhang,20010508,,,,,,,,USA,,
 z0bi,https://www.atptour.com/en/players/borys-zgola/z0bi/overview,Borys,Zgola,borys-zgola,20040208,,,,,,Right-Handed,One-Handed Backhand,POL,,
+z0bl,https://www.atptour.com/en/players/fares-zakaria/z0bl/overview,Fares,Zakaria,fares-zakaria,20010513,,,83,185,,,,,,
 z0by,https://www.atptour.com/en/players/nicolas-zanellato/z0by/overview,Nicolas,Zanellato,nicolas-zanellato,20020122,,,70,178,,Right-Handed,One-Handed Backhand,BRA,,
 z0bz,https://www.atptour.com/en/players/michael-zheng/z0bz/overview,Michael,Zheng,michael-zheng,20040127,,,73,188,,Right-Handed,Two-Handed Backhand,USA,,
 z0c0,https://www.atptour.com/en/players/alessio-zanotti/z0c0/overview,Alessio,Zanotti,alessio-zanotti,19990928,,,,,,,,ITA,,
